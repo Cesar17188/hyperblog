@@ -1,4 +1,4 @@
-#Hyperblog 💚
+# Hyperblog 💚
 un curso increible para el [manejo de git y github de platzy](https://platzi.com/clases/1557-git-github/) en [platzi.com](https://platzi.com/"Platzi")
 > El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi producción como freelancer y desarrollo de software
 
